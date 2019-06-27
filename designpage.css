@@ -1,0 +1,27 @@
+body {
+  font-style: Arial;
+}
+h1 {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#ToDo {
+  font-size: 30px;
+  border-color: #F21A1A;
+  border-width: 5px;
+  border-style: solid;
+}
+
+h2 {
+  text-decoration: underline;
+}
+#denkdaran {
+  text-decoration: underline;
+  text-decoration: bold;
+  color: darkred;
+  border-width: 5px;
+  border-style: solid;
+  width: 79%;
+
+}
